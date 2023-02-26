@@ -48,6 +48,15 @@ body {
   ul {
     font-family: "Mulish", sans-serif;
   }
+
+  main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+main section {
+  width: 440px;
+}
   
   h1 {
     font-size: 49px;
@@ -55,8 +64,6 @@ body {
     color: #1f1534;
   
     font-weight: normal;
-  
-    width: 490px;
   }
   
   h1 span {
