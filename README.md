@@ -20,7 +20,7 @@ Site desenvolvido como parte do treinamento do programa explorer da Rocketseat..
 <br>
 
 <p align="center">
-  <img alt="Capa do projeto Treine-me da Rocketseat" src=".github/preview.jpg" width="100%">
+  <img alt="Capa do projeto Treine-me-corrigindo bugs da Rocketseat" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,11 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Explorer | Projeto 1 é um site descritivo com links para E-mail e rede social de uma empresa fictícia. 
+O Explorer | Projeto 2 é um site descritivo com links para E-mail e rede social de uma empresa fictícia. 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/3J9AbdTgXUOqC73dhgvLin/Explorer-Projeto-01-Copy?fuid=1196975052091541368/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
